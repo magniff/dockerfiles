@@ -119,7 +119,6 @@ set completeopt-=preview
 set gcr=a:blinkon0
 set ttyfast
 
-colorscheme xoria256
 " set guifont=Consolas:h13
 set guifont=DejaVu\ Sans\ Mono\ for\ Powerline:h12
 
